@@ -1,0 +1,2 @@
+# PassingStateToProps
+Created with CodeSandbox
